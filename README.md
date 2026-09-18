@@ -142,6 +142,10 @@ else:
    plt.show()
 ```
 ## Output
+<img width="1049" height="587" alt="WhatsApp Image 2026-09-18 at 9 56 13 PM" src="https://github.com/user-attachments/assets/ef07a66c-005d-491d-92f2-9a69abda551a" />
+<img width="811" height="546" alt="WhatsApp Image 2026-09-18 at 9 56 23 PM" src="https://github.com/user-attachments/assets/ce9ce063-2e06-472d-9166-25a6bf30783c" />
+<img width="751" height="523" alt="WhatsApp Image 2026-09-18 at 9 56 33 PM" src="https://github.com/user-attachments/assets/0a2e0750-a13c-443c-8902-bdab43d0e75b" />
+<img width="816" height="553" alt="WhatsApp Image 2026-09-18 at 9 56 43 PM" src="https://github.com/user-attachments/assets/c3a9497d-2e9a-4a19-bee8-7bbd1c33c7bd" />
 
 
 ## Result :
